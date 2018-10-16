@@ -7,6 +7,10 @@
     <documentationStatus xmi:id="_Ctjb4NE7EeixqIZHmH6rrQ" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_Ctjb4dE7EeixqIZHmH6rrQ" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_Ctjb4tE7EeixqIZHmH6rrQ" label="validated" code="VAL"/>
+    <deletedFolders>metadata/salesforce/test.salesforce.com/services/Soap/u</deletedFolders>
+    <deletedFolders>metadata/salesforce/test.salesforce.com/services/Soap</deletedFolders>
+    <deletedFolders>metadata/salesforce/test.salesforce.com/services</deletedFolders>
+    <deletedFolders>metadata/salesforce/test.salesforce.com</deletedFolders>
     <migrationTask xmi:id="_CrJBENE7EeixqIZHmH6rrQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_CrJBEdE7EeixqIZHmH6rrQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_CrJBEtE7EeixqIZHmH6rrQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
