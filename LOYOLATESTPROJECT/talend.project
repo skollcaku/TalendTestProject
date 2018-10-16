@@ -7,6 +7,25 @@
     <documentationStatus xmi:id="_Ctjb4NE7EeixqIZHmH6rrQ" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_Ctjb4dE7EeixqIZHmH6rrQ" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_Ctjb4tE7EeixqIZHmH6rrQ" label="validated" code="VAL"/>
+    <ItemsRelations xmi:id="_FdiogNFBEeixqIZHmH6rrQ">
+      <baseItem xmi:id="_FdiogdFBEeixqIZHmH6rrQ" id="_cPTlkNFAEeixqIZHmH6rrQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_FdiogtFBEeixqIZHmH6rrQ" id="_G7L9INE_EeixqIZHmH6rrQ" version="Latest" type="property"/>
+      <relatedItems xmi:id="_Fdiog9FBEeixqIZHmH6rrQ" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdiohNFBEeixqIZHmH6rrQ" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdiohdFBEeixqIZHmH6rrQ" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdiohtFBEeixqIZHmH6rrQ" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Fdioh9FBEeixqIZHmH6rrQ" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdioiNFBEeixqIZHmH6rrQ" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdioidFBEeixqIZHmH6rrQ" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdioitFBEeixqIZHmH6rrQ" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Fdioi9FBEeixqIZHmH6rrQ" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdiojNFBEeixqIZHmH6rrQ" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdiojdFBEeixqIZHmH6rrQ" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdiojtFBEeixqIZHmH6rrQ" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Fdioj9FBEeixqIZHmH6rrQ" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdiokNFBEeixqIZHmH6rrQ" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FdiokdFBEeixqIZHmH6rrQ" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
     <deletedFolders>metadata/salesforce/test.salesforce.com/services/Soap/u</deletedFolders>
     <deletedFolders>metadata/salesforce/test.salesforce.com/services/Soap</deletedFolders>
     <deletedFolders>metadata/salesforce/test.salesforce.com/services</deletedFolders>
